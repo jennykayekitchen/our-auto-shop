@@ -1,0 +1,49 @@
+.all_page {
+    background-color: #272727;
+    color: #D6D6D6;
+}
+
+/* Jenny */
+.main_welcome {
+    background-image: url("car_background3.jpg"); 
+    text-align: center;
+    padding: 10px;
+    border: 3px solid #D6D6D6;
+    margin-bottom: 10px;
+    font-family: 'Smokum', cursive;
+    font-size: 2em;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+/* Jenny */
+.main_parts {
+    justify-content: space-around;
+    display: flex;
+    width: 50%;
+    
+} 
+
+.car_image, .tech_image {
+    height: 50%;
+    width: 50%;
+    
+}
+
+/* Alex */
+.hours_of_operation {
+    border: 3px solid #D6D6D6;
+    
+}
+
+/* Will */
+.technicians {
+    border: 3px solid #D6D6D6;
+    
+    
+}
+
+/* Jacob */
+.specialities {
+    border: 3px solid #D6D6D6;
+    
+}

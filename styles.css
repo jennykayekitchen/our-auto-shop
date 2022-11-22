@@ -6,7 +6,7 @@
 /* Jenny */
 .main_welcome {
     background-image: url("car_background3.jpg"); 
-    text-align: center;
+    text-align: left;
     padding: 10px;
     border: 3px solid #D6D6D6;
     margin-bottom: 10px;
@@ -26,6 +26,7 @@
 .car_image, .tech_image {
     height: 50%;
     width: 50%;
+
     
 }
 

@@ -41,12 +41,13 @@
 /* Will */
 .technicians {
     border: 3px solid #D6D6D6;
-    
+    color:aqua;
     
 }
 
 /* Jacob */
 .specialities {
     border: 3px solid #D6D6D6;
+    color: tomato;
     
 }
